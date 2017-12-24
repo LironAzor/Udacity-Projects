@@ -1,0 +1,162 @@
+/* add your CSS here */
+body{
+	font-family: Calibri ;/*"Times New Roman", Times, serif;*/
+}
+
+#info{
+	display: block;
+	width: 100%;
+	margin: 0 ;
+	padding-left: 5%;
+	color:white;
+}
+#CardMainDiv{
+	display: block;
+	width:100%;
+	margin: 0 auto;
+}
+
+h2{
+	color: white;
+	padding-left: 5%;
+}
+
+h2:hover{
+	background-color: #e1efff;
+	color: #464646;
+}
+
+.sideContent{
+	display:inline;
+	float:left;
+	width: 20%;
+	height:100%;
+	margin: 0 auto;
+	/*border: 1px solid #b4b1a9;*/
+	margin-bottom: 4%;
+	margin-top:2%;
+	background-color: #2e75b6;
+	height:1400px;
+}
+
+#mainContent{
+	display:inline;
+		float:left;
+	width: 78%;
+	margin: 0 auto;
+	padding-left:2%;
+	/*border: 1px solid #b4b1a9;*/
+	margin-bottom: 4%;
+	margin-top:2%;
+	background-color: white;
+}
+
+#mainContent:hover{
+	
+}
+
+.category{
+	display: block;
+	color:white;
+	padding:0.5%;
+	width: 99%;
+	margin: 0 auto;
+	border: 1px solid #b4b1a9;
+	background-color: #2e75b6;
+}
+
+.catContent{
+	display: block;
+	margin:0 auto;
+	padding-left:0.5%;
+	width: 98%;
+	margin-top:-2%;
+}
+
+li:hover{
+background-color: #7bbefb;
+}
+
+h5:hover{
+background-color: #7bbefb;
+}
+#summary {
+	font-style: italic;
+}
+
+#mainContent span {
+	font-weight: 800;
+}
+
+ul{
+	margin-left: -2%;
+	list-style: circle;
+	text-transform: capitalize;
+}
+
+h3{
+color:#2e75b6;
+padding-left:1%;
+display:inline-block;
+}
+
+.years{
+color:#c9c8c7;
+padding-left:1%;
+}
+
+.menu{
+width:100%;
+margin-left:0;
+}
+
+.menu li{
+display:block;
+padding-bottom:5%;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+
+a{
+color:white;
+}
+
+ul{
+border-left: 1px solid #cecece;
+}
+
+
+.menu ul{
+border-left:none;
+}
+
+.side{
+display:block;
+color:white;
+padding:3%;
+padding-left:5%;
+background-color:#1b4469;
+}
+
+.sideContentIn{
+color:white;
+padding-bottom:5%;
+}
+
+img {
+border: 2px solid white;
+border-radius:50%;
+width:30%;
+margin-left:25%;
+}
+.sideContentIn ul{
+padding-left:5%;
+}
+.sideContentIn li{
+margin-left:5%;
+}
